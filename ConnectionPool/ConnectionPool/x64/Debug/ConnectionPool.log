@@ -1,0 +1,8 @@
+﻿  Connection.cpp
+  ConnectionPool.cpp
+C:\Users\戴健飞\source\repos\ConnectionPool\ConnectionPool\ConnectionPool.cpp(26,29): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\戴健飞\source\repos\ConnectionPool\ConnectionPool\ConnectionPool.cpp(33,35): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\戴健飞\source\repos\ConnectionPool\ConnectionPool\ConnectionPool.cpp(14,13): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  main.cpp
+  正在生成代码...
+  ConnectionPool.vcxproj -> C:\Users\戴健飞\source\repos\ConnectionPool\x64\Debug\ConnectionPool.exe
